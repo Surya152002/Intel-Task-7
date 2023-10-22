@@ -74,7 +74,7 @@ def main():
     st.title("Cryptocurrency Price Prediction and Trading Bot")
 
     # Specify the path to the CSV file
-    csv_path = '/crypto_dataset (9).csv'  # Update with your specific file path
+    csv_path = 'Intel-Task-8/crypto_dataset (9).csv'  # Update with your specific file path
 
     # Check if the CSV file exists at the specified path
     if not os.path.exists(csv_path):

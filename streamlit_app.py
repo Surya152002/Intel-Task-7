@@ -14,7 +14,7 @@ import os  # Added for file path handling
 import openai
 
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Download the necessary NLTK datasets
 nltk.download('punkt')

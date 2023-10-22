@@ -6,4 +6,3 @@ streamlit
 numpy==1.21.2
 nltk==3.6.3
 openai==0.27.0
---no-cache-dir
